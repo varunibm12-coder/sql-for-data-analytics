@@ -1,85 +1,76 @@
-# 📅 Day 3 – Sorting and DISTINCT
+# Day 03 - Sorting and DISTINCT
 
-## 📖 Overview
-Today, I learned how to sort data and retrieve unique values using SQL. These operations help organize data, eliminate duplicates, and improve data analysis.
+## 📌 Overview
+
+On Day 3, I learned how to organize query results using SQL sorting techniques and retrieve unique records using the `DISTINCT` keyword. These concepts help present data in a meaningful order and eliminate duplicate values from query results.
 
 ---
 
-## 📚 Topics Covered
+## 🎯 Topics Covered
+
 - ORDER BY
-- ASC (Ascending Order)
-- DESC (Descending Order)
+- ASC
+- DESC
 - Sorting by Multiple Columns
 - DISTINCT
-- DISTINCT on Multiple Columns
 
 ---
 
-## 💻 SQL Queries Practiced
+## 💻 SQL Concepts Practiced
 
-### Sorting Data
-- Sort records in ascending order
-- Sort records in descending order
-- Sort by Patient ID
-- Sort by Patient Name
-- Sort by Age
-- Sort by Bill Amount
-- Sort by Admission Date
-- Sort using multiple columns
-
-### DISTINCT
-- Display unique cities
-- Display unique diseases
-- Display unique doctors
-- Display unique gender
-- Display unique gender–disease combinations
+- Sorting records using `ORDER BY`
+- Sorting data in ascending order (`ASC`)
+- Sorting data in descending order (`DESC`)
+- Sorting by multiple columns
+- Retrieving unique values using `DISTINCT`
 
 ---
 
-## 📝 LeetCode SQL
-Completed:
-- 1757. Recyclable and Low Fat Products
-- 619. Biggest Single Number
-- 182. Duplicate Emails
+## 🧩 LeetCode SQL Problems Solved
+
+| Problem | Difficulty | Status |
+|---------|------------|:------:|
+| 1757. Recyclable and Low Fat Products | Easy | ✅ |
+| 619. Biggest Single Number | Easy | ✅ |
+| 182. Duplicate Emails | Easy | ✅ |
 
 ---
 
-## 📁 Files Included
-- `day3_sorting_distinct.sql`
-- `README.md`
+## 📂 Files Included
+
+- `Day_03_Sorting_and_DISTINCT.sql` – SQL queries demonstrating sorting and duplicate removal.
+- `README.md` – Documentation for Day 3.
+- `screenshots/` – Query execution screenshots from MySQL Workbench.
+- `leetcode/` – Accepted LeetCode SQL solutions and screenshots.
 
 ---
 
-## 📸 Screenshots
-- Sort by Patient Name
-- Sort by Age (Descending)
-- Sort by Bill Amount
-- Sort by Multiple Columns
-- DISTINCT City
-- DISTINCT Disease
-- DISTINCT Doctor
-- DISTINCT Gender
-- LeetCode Solutions
+## 📚 Key Learnings
 
----
-
-## 🎯 Learning Outcome
-After completing Day 3, I can:
-- Sort records using `ORDER BY`
-- Use `ASC` and `DESC` for sorting
-- Sort data using multiple columns
-- Retrieve unique values using `DISTINCT`
-- Retrieve unique combinations of multiple columns
-- Apply sorting and filtering techniques to solve SQL problems
+- Sorted query results using the `ORDER BY` clause.
+- Arranged records in ascending (`ASC`) and descending (`DESC`) order.
+- Sorted data using multiple columns.
+- Retrieved unique values using the `DISTINCT` keyword.
+- Improved SQL query writing through LeetCode practice.
 
 ---
 
 ## 🛠️ Tools Used
+
+- MySQL Server 8.0
 - MySQL Workbench
-- SQL
-- GitHub
+- LeetCode
 
 ---
 
-## 🚀 Next Topic
-**Day 4 – Aggregate Functions (`COUNT`, `SUM()`, `AVG()`, `MIN()`, `MAX()`)**
+## 🚀 Next Step
+
+**Day 04 – Aggregate Functions**
+
+Topics to learn:
+
+- COUNT()
+- SUM()
+- AVG()
+- MIN()
+- MAX()
