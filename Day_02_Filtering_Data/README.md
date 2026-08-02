@@ -35,14 +35,15 @@ On Day 2, I learned how to filter data from tables using SQL conditions. I pract
 
 ---
 
-## 🧩 LeetCode SQL Problems
+## 🧩 LeetCode SQL Problems Solved
 
 | Problem | Difficulty | Status |
 |---------|------------|:------:|
-| 595. Big Countries | Easy | ✅ |
-| 584. Find Customer Referee | Easy | ✅ |
-| 1683. Invalid Tweets | Easy | ✅ |
-
+| 1527. Patients With a Condition | Easy | ✅ |
+| 183. Customers Who Never Order | Easy | ✅ |
+| 586. Customer Placing the Largest Number of Orders | Easy | ✅ |
+| 620. Not Boring Movies | Easy | ✅ |
+| 1873. Calculate Special Bonus | Easy | ✅ |
 ---
 
 ## 📂 Files Included
