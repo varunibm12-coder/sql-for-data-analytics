@@ -1,6 +1,4 @@
--- =========================================
--- DAY 1 - SQL BASICS
--- =========================================
+
 
 -- Create Database
 CREATE DATABASE IF NOT EXISTS company_db;
