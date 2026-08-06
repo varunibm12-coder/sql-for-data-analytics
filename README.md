@@ -31,8 +31,8 @@ A structured SQL learning repository documenting my journey from SQL fundamental
 | Day 02 | Filtering Data (WHERE) | ✅ |
 | Day 03 | Sorting & DISTINCT | ✅ |
 | Day 04 | Aggregate Functions | ✅ |
-| Day 05 | GROUP BY & HAVING | ⬜ |
-| Day 06 | String Functions | ⬜ |
+| Day 05 | GROUP BY & HAVING | ✅ |
+| Day 06 | String Functions | ✅ |
 | Day 07 | Date Functions | ⬜ |
 | Day 08 | CASE Statements | ⬜ |
 | Day 09 | Subqueries | ⬜ |
