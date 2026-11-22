@@ -1,90 +1,70 @@
+
 # SQL for Data Analytics
 
-A structured SQL learning repository documenting my journey from SQL fundamentals to advanced data analysis using MySQL. This repository includes daily practice, LeetCode SQL solutions, interview preparation, and portfolio-ready projects.
+## About This Repository
+This repository documents my 20-day journey of learning SQL for Data Analytics using MySQL 8.0 and MySQL Workbench.
 
----
+The goal is to strengthen SQL fundamentals, solve LeetCode problems, practise real-world queries, and build practical SQL projects.
 
-## 📚 Learning Goals
+## 📚 SQL Learning Roadmap
 
-- Master SQL fundamentals
-- Learn advanced SQL concepts
-- Solve LeetCode SQL problems
-- Build real-world SQL projects
-- Prepare for Data Analyst interviews
+| Day | Topics | Status |
+|---|---|---|
+| Day 1 | SQL Fundamentals – SELECT, FROM | ✅ Completed |
+| Day 2 | Filtering Data – WHERE, AND, OR, LIKE, IN | ✅ Completed |
+| Day 3 | Sorting & DISTINCT – ORDER BY, DISTINCT | ✅ Completed |
+| Day 4 | Aggregate Functions – COUNT, SUM, AVG, MIN, MAX | ✅ Completed |
+| Day 5 | GROUP BY & HAVING | ✅ Completed |
+| Day 6 | String Functions | ✅ Completed |
+| Day 7 | Date & Time Functions | ✅ Completed |
+| Day 8 | Numeric Functions | 🔄 In Progress |
+| Day 9 | SQL Constraints | ⬜ Upcoming |
+| Day 10 | SQL Joins – INNER, LEFT, RIGHT, SELF JOIN | ⬜ Upcoming |
+| Day 11 | Multiple Joins & UNION | ⬜ Upcoming |
+| Day 12 | Subqueries & Nested Queries | ⬜ Upcoming |
+| Day 13 | CASE Statements, NULL Handling & CTEs | ⬜ Upcoming |
+| Day 14 | Window Functions – ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD | ⬜ Upcoming |
+| Day 15 | SQL Interview Questions & LeetCode Practice | ⬜ Upcoming |
+| Day 16 | Sales Database Analysis Project | ⬜ Upcoming |
+| Day 17 | HR Database Management & Analysis Project | ⬜ Upcoming |
+| Day 18 | Retail Analytics Project | ⬜ Upcoming |
+| Day 19 | Customer Analytics Project | ⬜ Upcoming |
+| Day 20 | End-to-End SQL Capstone Project | ⬜ Upcoming |
 
----
+## 🚀 Practical SQL Projects
 
-## 🛠️ Tools Used
+| Day | Project | Focus |
+|---|---|---|
+| Day 16 | Sales Database Analysis | Revenue, orders and product performance |
+| Day 17 | HR Database Analysis | Employees, departments and salaries |
+| Day 18 | Retail Analytics | Products, transactions and store performance |
+| Day 19 | Customer Analytics | Customer behaviour and purchasing patterns |
+| Day 20 | SQL Capstone Project | End-to-end SQL data analysis |
 
-- MySQL Server 8.0
+## 🛠️ Tools & Technologies
+- MySQL 8.0
 - MySQL Workbench
-- LeetCode SQL
 - Git & GitHub
+- LeetCode
 
----
+## 💡 Skills Practised
+- SQL Query Writing
+- Data Filtering & Sorting
+- Aggregate Functions
+- GROUP BY & HAVING
+- String & Date Functions
+- Numeric Functions
+- SQL Joins
+- Subqueries & CTEs
+- Window Functions
+- Database Management
+- Business Data Analysis
 
-## 📅 Learning Roadmap
+## 🎯 Learning Goal
+To develop strong SQL problem-solving skills, gain hands-on experience with real-world datasets, and prepare for entry-level Data Analyst opportunities.
 
-| Day | Topic | Status |
-|-----|-------------------------------|:------:|
-| Day 01 | SQL Basics | ✅ |
-| Day 02 | Filtering Data (WHERE) | ✅ |
-| Day 03 | Sorting & DISTINCT | ✅ |
-| Day 04 | Aggregate Functions | ✅ |
-| Day 05 | GROUP BY & HAVING | ✅ |
-| Day 06 | String Functions | ✅ |
-| Day 07 | Date Functions | ⬜ |
-| Day 08 | CASE Statements | ⬜ |
-| Day 09 | Subqueries | ⬜ |
-| Day 10 | INNER JOIN | ⬜ |
-| Day 11 | LEFT & RIGHT JOIN | ⬜ |
-| Day 12 | SELF JOIN | ⬜ |
-| Day 13 | UNION | ⬜ |
-| Day 14 | Common Table Expressions (CTEs) | ⬜ |
-| Day 15 | Window Functions | ⬜ |
-| Day 16 | Views | ⬜ |
-| Day 17 | Stored Procedures | ⬜ |
-| Day 18 | Triggers | ⬜ |
-| Day 19 | SQL Optimization | ⬜ |
-| Day 20 | Database Design | ⬜ |
-| Day 21 | Advanced Joins | ⬜ |
-| Day 22 | Ranking Functions | ⬜ |
-| Day 23 | LeetCode SQL Practice | ⬜ |
-| Day 24 | Sales Database Project | ⬜ |
-| Day 25 | HR Database Project | ⬜ |
-| Day 26 | Retail Analytics | ⬜ |
-| Day 27 | Customer Analytics | ⬜ |
-| Day 28 | Business Case Study | ⬜ |
-| Day 29 | Interview Practice | ⬜ |
-| Day 30 | SQL Capstone Project | ⬜ |
+**Learning by practising, building projects and solving real-world problems.**
 
----
-
-## 💻 Repository Contents
-
-Each day's folder contains:
-
-- SQL Scripts (.sql)
-- Screenshots
-- README (if applicable)
-- Practice Exercises
-- LeetCode SQL Solutions
-
----
-
-## 🧩 LeetCode SQL Progress
-
-| Difficulty | Status |
-|------------|:------:|
-| Easy | ⏳ |
-| Medium | ⏳ |
-| Hard | ⏳ |
-
----
-
-## 🎯 Career Goal
-
-Build strong SQL skills for Data Analyst roles through consistent practice, real-world projects, and interview-focused problem solving.
 
 ---
 
