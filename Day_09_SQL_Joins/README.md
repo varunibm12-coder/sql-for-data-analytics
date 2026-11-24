@@ -33,7 +33,6 @@ I practiced different types of JOINs using employee and department datasets.
 | 1378. Replace Employee ID With The Unique Identifier | Easy | ✅ Completed |
 | 1068. Product Sales Analysis I | Easy | ✅ Completed |
 | 1581. Customer Who Visited but Did Not Make Any Transactions | Easy | ✅ Completed |
-| 570. Managers with at Least 5 Direct Reports | Medium | ✅ Completed |
 
 ## 📁 Files Included
 
