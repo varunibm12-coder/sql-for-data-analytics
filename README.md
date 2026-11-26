@@ -2,6 +2,7 @@
 # SQL for Data Analytics
 
 ## About This Repository
+
 This repository documents my 20-day journey of learning SQL for Data Analytics using MySQL 8.0 and MySQL Workbench.
 
 The goal is to strengthen SQL fundamentals, solve LeetCode problems, practise real-world queries, and build practical SQL projects.
@@ -17,14 +18,14 @@ The goal is to strengthen SQL fundamentals, solve LeetCode problems, practise re
 | Day 5 | GROUP BY & HAVING | ✅ Completed |
 | Day 6 | String Functions | ✅ Completed |
 | Day 7 | Date & Time Functions | ✅ Completed |
-| Day 8 | Numeric Functions | 🔄 In Progress |
-| Day 9 | SQL Constraints | ⬜ Upcoming |
-| Day 10 | SQL Joins – INNER, LEFT, RIGHT, SELF JOIN | ⬜ Upcoming |
-| Day 11 | Multiple Joins & UNION | ⬜ Upcoming |
-| Day 12 | Subqueries & Nested Queries | ⬜ Upcoming |
-| Day 13 | CASE Statements, NULL Handling & CTEs | ⬜ Upcoming |
+| Day 8 | Numeric Functions | ✅ Completed |
+| Day 9 | SQL JOINs – INNER, LEFT, RIGHT, SELF JOIN | ✅ Completed |
+| Day 10 | Multiple JOINs & UNION | ✅ Completed |
+| Day 11 | Subqueries & Nested Queries | ⬜ Upcoming |
+| Day 12 | CASE Statements & NULL Handling | ⬜ Upcoming |
+| Day 13 | Common Table Expressions (CTEs) | ⬜ Upcoming |
 | Day 14 | Window Functions – ROW_NUMBER, RANK, DENSE_RANK, LAG, LEAD | ⬜ Upcoming |
-| Day 15 | SQL Interview Questions & LeetCode Practice | ⬜ Upcoming |
+| Day 15 | SQL Interview Questions & Advanced Practice | ⬜ Upcoming |
 | Day 16 | Sales Database Analysis Project | ⬜ Upcoming |
 | Day 17 | HR Database Management & Analysis Project | ⬜ Upcoming |
 | Day 18 | Retail Analytics Project | ⬜ Upcoming |
@@ -42,29 +43,33 @@ The goal is to strengthen SQL fundamentals, solve LeetCode problems, practise re
 | Day 20 | SQL Capstone Project | End-to-end SQL data analysis |
 
 ## 🛠️ Tools & Technologies
+
 - MySQL 8.0
 - MySQL Workbench
 - Git & GitHub
 - LeetCode
 
 ## 💡 Skills Practised
+
 - SQL Query Writing
 - Data Filtering & Sorting
 - Aggregate Functions
 - GROUP BY & HAVING
 - String & Date Functions
 - Numeric Functions
-- SQL Joins
+- INNER, LEFT, RIGHT & SELF JOIN
+- Multiple JOINs
+- UNION & UNION ALL
 - Subqueries & CTEs
 - Window Functions
 - Database Management
 - Business Data Analysis
 
 ## 🎯 Learning Goal
+
 To develop strong SQL problem-solving skills, gain hands-on experience with real-world datasets, and prepare for entry-level Data Analyst opportunities.
 
 **Learning by practising, building projects and solving real-world problems.**
-
 
 ---
 
